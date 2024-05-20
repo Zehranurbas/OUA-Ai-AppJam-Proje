@@ -1,0 +1,53 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/vectors/vector_5_x2.svg
+  - assets/images/ekran_grnts_202405190421561.png
+  - assets/vectors/vector_4_x2.svg
+  - assets/images/reshot_illustration_website_development_5_qs_97_cjh_2_a_9_f_9_a_12.png
+  - assets/vectors/vector_13_x2.svg
+  - assets/images/ekran_grnts_202405200033081.png
+  - assets/images/ekran_grnts_202405200026221.png
+  - assets/vectors/vector_3_x2.svg
+  - assets/images/ekran_grnts_202405190145031.png
+  - assets/images/ekran_grnts_202405190142301.png
+  - assets/vectors/vector_x2.svg
+  - assets/images/ekran_grnts_202405200025321.png
+  - assets/images/ekran_grnts_202405200021021.png
+  - assets/vectors/vector_11_x2.svg
+  - assets/images/ekran_grnts_202405190144181.png
+  - assets/images/ekran_grnts_202405190143021.png
+  - assets/vectors/vector_6_x2.svg
+  - assets/images/reshot_illustration_website_development_5_qs_97_cjh_2_a_9_f_9_a_12.png
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/vectors/vector_12_x2.svg
+  - assets/images/ekran_grnts_202405200020391.png
+  - assets/images/ekran_grnts_202405200022311.png
+  - assets/vectors/vector_2_x2.svg
+  - assets/images/reshot_illustration_website_development_5_qs_97_cjh_2_a_9_f_9_a_12.png
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/vector_8_x2.svg
+
